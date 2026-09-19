@@ -5,3 +5,7 @@ setup.sh linguist-vendored=true
 data/** linguist-vendored=true
 docs/** linguist-documentation=true
 
+* text=auto
+*.sh text eol=lf
+*.sql text eol=lf
+*.csv text eol=lf
