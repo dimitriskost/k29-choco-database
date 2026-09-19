@@ -1,0 +1,7 @@
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+setup.sh linguist-vendored=true
+data/** linguist-vendored=true
+docs/** linguist-documentation=true
+
