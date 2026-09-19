@@ -1,0 +1,101 @@
+prod_code,description,prod_origin,list_price,qty_on_hand,reorder_level,reorder_qty
+1001,'Almond-Choco premium','WA',15.0,50,100,200
+1002,'Dark Chocolate WF','SA',20.0,300,50,100
+1003,'Milk Chocolate Bulk','CA',10.0,500,100,300
+1004,'White Chocolate Drops','AS',12.0,20,30,50
+1005,'Hazelnut Praline','EA',18.0,150,100,150
+1006,'Dark Chocolate with Caramel','EA',20.98,489,94,344
+1007,'Couverture Chocolate Block','SA',28.42,146,50,365
+1008,'Couverture Chocolate with Hazelnut','EA',24.79,722,126,274
+1009,'Milk Chocolate Powder','SA',6.37,485,58,170
+1010,'White Chocolate Drops','CA',9.91,178,104,229
+1011,'Dark Chocolate Drops','WA',43.43,566,59,108
+1012,'Praline Chocolate Block','SA',34.7,190,197,330
+1013,'Truffle Chocolate with Hazelnut','WA',38.15,394,108,327
+1014,'Praline Chocolate Block','CA',36.36,799,159,418
+1015,'White Chocolate Organic','WA',30.87,84,83,486
+1016,'Milk Chocolate Powder','SA',36.91,768,113,310
+1017,'Milk Chocolate with Hazelnut','CA',41.34,648,195,132
+1018,'Dark Chocolate Organic','WA',40.55,637,113,171
+1019,'White Chocolate with Hazelnut','CA',44.68,763,147,103
+1020,'Milk Chocolate with Hazelnut','EA',9.68,122,158,319
+1021,'Dark Chocolate Drops','AS',35.44,613,134,374
+1022,'Praline Chocolate with Hazelnut','SA',8.68,681,144,344
+1023,'White Chocolate with Caramel','CA',5.16,59,160,148
+1024,'Praline Chocolate Drops','AS',9.32,334,143,166
+1025,'Truffle Chocolate with Caramel','SA',14.15,49,172,136
+1026,'Ruby Chocolate Block','EA',10.82,208,136,181
+1027,'Praline Chocolate Powder','AS',44.39,186,196,326
+1028,'Milk Chocolate Powder','WA',32.0,172,136,251
+1029,'Ruby Chocolate Powder','EA',10.19,364,143,360
+1030,'Ruby Chocolate with Hazelnut','AS',38.96,506,102,455
+1031,'Couverture Chocolate with Caramel','CA',44.18,580,128,488
+1032,'Couverture Chocolate Powder','CA',36.52,588,103,312
+1033,'Couverture Chocolate Drops','CA',40.15,491,197,493
+1034,'Praline Chocolate Powder','EA',23.56,758,81,354
+1035,'Ruby Chocolate with Hazelnut','WA',11.31,349,109,162
+1036,'Truffle Chocolate Organic','EA',22.32,408,200,318
+1037,'Dark Chocolate Drops','EA',29.2,142,119,159
+1038,'Dark Chocolate Drops','AS',13.88,520,84,315
+1039,'Ruby Chocolate Organic','EA',24.66,290,182,162
+1040,'Praline Chocolate Block','EA',32.55,139,118,319
+1041,'White Chocolate Block','CA',42.37,92,113,151
+1042,'Milk Chocolate with Hazelnut','SA',24.32,161,58,266
+1043,'Truffle Chocolate Powder','AS',6.02,483,54,421
+1044,'Truffle Chocolate with Caramel','CA',33.29,217,95,433
+1045,'White Chocolate with Caramel','WA',26.23,787,148,236
+1046,'Praline Chocolate with Hazelnut','CA',14.63,61,100,358
+1047,'Dark Chocolate with Caramel','AS',33.4,72,186,416
+1048,'Milk Chocolate Drops','CA',14.85,480,179,400
+1049,'Truffle Chocolate Drops','SA',35.73,663,181,327
+1050,'Ruby Chocolate Organic','WA',7.66,673,181,457
+1051,'Dark Chocolate Organic','SA',10.64,300,105,214
+1052,'Couverture Chocolate Drops','SA',18.87,150,197,257
+1053,'Ruby Chocolate Organic','SA',31.34,565,106,343
+1054,'Ruby Chocolate Organic','EA',6.19,593,164,191
+1055,'Truffle Chocolate Block','WA',10.62,342,125,474
+1056,'Couverture Chocolate Drops','AS',26.23,581,163,179
+1057,'Milk Chocolate with Hazelnut','SA',36.06,116,162,500
+1058,'Couverture Chocolate Drops','WA',6.16,541,132,381
+1059,'Dark Chocolate Drops','WA',44.99,151,101,401
+1060,'Praline Chocolate with Hazelnut','WA',41.78,211,194,206
+1061,'Truffle Chocolate with Hazelnut','WA',11.23,355,164,348
+1062,'Milk Chocolate Organic','WA',32.58,353,102,408
+1063,'White Chocolate with Caramel','WA',10.82,434,79,198
+1064,'Milk Chocolate Block','WA',38.32,361,178,449
+1065,'Ruby Chocolate Drops','EA',34.31,257,81,220
+1066,'Truffle Chocolate Organic','SA',12.77,105,103,401
+1067,'Milk Chocolate Block','AS',29.2,408,61,317
+1068,'Praline Chocolate Organic','CA',28.28,178,136,121
+1069,'Ruby Chocolate Organic','CA',32.19,340,131,168
+1070,'Couverture Chocolate Powder','SA',11.57,800,57,262
+1071,'Milk Chocolate with Hazelnut','AS',10.24,231,115,235
+1072,'Truffle Chocolate with Caramel','AS',40.0,201,195,171
+1073,'Dark Chocolate Organic','EA',17.87,615,172,239
+1074,'White Chocolate Drops','WA',13.47,238,158,497
+1075,'Milk Chocolate Block','AS',35.08,636,137,449
+1076,'Couverture Chocolate Organic','WA',42.29,15,193,291
+1077,'Dark Chocolate with Hazelnut','SA',18.06,712,153,423
+1078,'Ruby Chocolate Block','SA',26.78,144,150,461
+1079,'Couverture Chocolate Drops','SA',15.96,721,162,360
+1080,'Praline Chocolate Block','WA',22.84,628,188,213
+1081,'White Chocolate Block','CA',11.2,305,99,443
+1082,'Milk Chocolate with Hazelnut','AS',33.79,369,171,135
+1083,'Milk Chocolate with Caramel','SA',7.16,366,170,380
+1084,'Couverture Chocolate Powder','SA',30.52,608,66,431
+1085,'Praline Chocolate with Caramel','WA',24.91,401,190,245
+1086,'Couverture Chocolate Block','EA',43.45,444,161,395
+1087,'Truffle Chocolate Block','SA',44.97,67,54,103
+1088,'Ruby Chocolate Block','CA',40.13,42,137,265
+1089,'Truffle Chocolate with Caramel','AS',30.08,200,129,409
+1090,'White Chocolate Drops','EA',28.21,583,172,348
+1091,'Couverture Chocolate Drops','EA',19.93,495,104,407
+1092,'Couverture Chocolate with Caramel','CA',44.98,297,159,485
+1093,'Truffle Chocolate Block','AS',33.49,417,134,200
+1094,'Ruby Chocolate Block','AS',13.56,442,160,433
+1095,'Praline Chocolate Block','CA',28.95,190,165,338
+1096,'Praline Chocolate Organic','WA',9.13,628,148,223
+1097,'Dark Chocolate Drops','SA',16.79,83,195,247
+1098,'Ruby Chocolate with Hazelnut','AS',43.36,63,90,404
+1099,'Praline Chocolate Block','SA',8.18,170,173,383
+1100,'Praline Chocolate with Caramel','EA',25.9,432,159,320

@@ -1,0 +1,17 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE & Editors
+.vscode/
+*.swp
+
+
+__pycache__/
+*.py[cod]
+.venv/
+env/
+*.log
+
+# Sensitive Credentials
+.env
